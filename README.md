@@ -220,10 +220,14 @@ SELECT * FROM yang_animal;
 12. Объединить все таблицы в одну, при этом сохраняя поля, указывающие на
 прошлую принадлежность к старым таблицам.
 
-SELECT h.Name, h.Birthday, h.Commands, pa.Genus_name, ya.Age_in_month 
+SELECT h.Name, h.Birthday, h.Commands, pa.Genus_name, ya.Age_in_month
+
 FROM horses h
+
 LEFT JOIN yang_animal ya ON ya.Name = h.Name
+
 LEFT JOIN packed_animals pa ON pa.Id = h.Genus_id
+
 UNION 
 SELECT d.Name, d.Birthday, d.Commands, pa.Genus_name, ya.Age_in_month 
 FROM donkeys d 
