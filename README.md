@@ -43,7 +43,7 @@
 
 ![скрин](https://github.com/RomanStrashko/Final_work/blob/main/итоговая_5.png)
 
-![скрин]()
+![скрин](https://github.com/RomanStrashko/Final_work/blob/main/итоговая_5.1.png)
 
 6. Нарисовать диаграмму, в которой есть класс родительский класс, домашние
 животные и вьючные животные, в составы которых в случае домашних
