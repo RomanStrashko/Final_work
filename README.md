@@ -26,7 +26,7 @@
 
 ![скрин](https://github.com/RomanStrashko/Final_work/blob/main/итоговая_2.png)
 
-![скрин](https://github.com/RomanStrashko/2/blob/main/итоговая_2.1.png)
+![скрин](https://github.com/RomanStrashko/Final_work/blob/main/итоговая_2.1.png)
    
 3. Подключить дополнительный репозиторий MySQL. Установить любой пакет
 из этого репозитория.
