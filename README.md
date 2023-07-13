@@ -33,7 +33,7 @@
 
 ![скрин](https://github.com/RomanStrashko/Final_work/blob/main/итоговая_3.png)
 
-![скрин]()
+![скрин](https://github.com/RomanStrashko/Final_work/blob/main/итоговая_3.1.png)
 
 5. Установить и удалить deb-пакет с помощью dpkg.
 6. Выложить историю команд в терминале ubuntu
